@@ -1,3 +1,3 @@
-# beginners-lcuk
+# beginners-luck
 just someone looking to learn more hands on coding
-I am recruiter as well... mainly recruit for full stack development
+I am a recruiter as well... mainly recruit for full stack development
